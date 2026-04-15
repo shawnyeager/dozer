@@ -1,0 +1,4 @@
+/dozer
+/cmd/dozer/dozer
+*.test
+*.out
